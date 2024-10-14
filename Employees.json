@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "first_name": "Jose",
+    "last_name": "Lopez",
+    "email": "joselopez0944@slingacademy.com",
+    "phone": "+1-971-533-4552x1542",
+    "gender": "male",
+    "age": 25,
+    "job_title": "Project Manager",
+    "years_of_experience": 1,
+    "salary": 8500,
+    "department": "Product"
+  },
+{
+    "id": 2,
+    "first_name": "ram",
+    "last_name": "Lopez",
+    "email": "joselopez08944@slingacademy.com",
+    "phone": "+1-971-533-4552y1542",
+    "gender": "male",
+    "age": 23,
+    "job_title": " Manager",
+    "years_of_experience": 2,
+    "salary": 85000,
+    "department": "R&D"
+  },
+{
+    "id": 3,
+    "first_name": "Prasad",
+    "last_name": "shinde",
+    "email": "prsad@slingacademy.com",
+    "phone": "+1-971-533-4552k1542",
+    "gender": "male",
+    "age": 29,
+    "job_title": " Engineer",
+    "years_of_experience": 5,
+    "salary": 85000,
+    "department": "R&D"
+  },
+"id": 5,
+    "first_name": "Ramesh",
+    "last_name": "shine",
+    "email": "ramesh@slingacademy.com",
+    "phone": "+1-971-533-4552x21542",
+    "gender": "male",
+    "age": 32,
+    "job_title": " CEO",
+    "years_of_experience": 10,
+    "salary": 850000,
+    "department": "Administration"
+  },
+
+]

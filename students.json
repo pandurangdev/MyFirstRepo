@@ -1,0 +1,156 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "arun",
+      "gender": "Male",
+      "physics": 88,
+      "maths": 87,
+      "english": 78
+    },
+    {
+      "id": "2",
+      "name": "rajesh",
+      "gender": "Male",
+      "physics": 96,
+      "maths": 100,
+      "english": 95
+    },
+    {
+      "name": "Pandurang",
+      "gender": "Male",
+      "physics": 85,
+      "maths": 97,
+      "english": 80,
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "name": "usha",
+      "gender": "Female",
+      "physics": 67,
+      "maths": 45,
+      "english": 78
+    },
+    {
+      "id": "6",
+      "name": "priya",
+      "gender": "Female",
+      "physics": 56,
+      "maths": 46,
+      "english": 78
+    },
+    {
+      "name": "Ravi",
+      "gender": "Male",
+      "physics": 82,
+      "maths": 90,
+      "english": 70,
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Kavitha",
+      "gender": "Female",
+      "physics": 78,
+      "maths": 71,
+      "english": 67
+    },
+    {
+      "id": "9",
+      "name": "Dinesh",
+      "gender": "Male",
+      "physics": 56,
+      "maths": 45,
+      "english": 67
+    },
+    {
+      "id": "10",
+      "name": "Hema",
+      "gender": "Female",
+      "physics": 71,
+      "maths": 90,
+      "english": 23
+    },
+    {
+      "id": "11",
+      "name": "Gowri",
+      "gender": "Female",
+      "physics": 100,
+      "maths": 100,
+      "english": 100
+    },
+    {
+      "id": "12",
+      "name": "Ram",
+      "gender": "Male",
+      "physics": 78,
+      "maths": 55,
+      "english": 47
+    },
+    {
+      "id": "14",
+      "name": "Jenifer",
+      "gender": "Female",
+      "physics": 67,
+      "maths": 88,
+      "english": 90
+    },
+    {
+      "id": "e275",
+      "name": "Rohini",
+      "gender": "Female",
+      "physics": 92,
+      "maths": 90,
+      "english": 80
+    },
+    {
+      "id": "cf15",
+      "name": "Rohini",
+      "gender": "Female",
+      "physics": 92,
+      "maths": 90,
+      "english": 80
+    },
+    {
+      "id": "9300",
+      "name": "Rohini",
+      "gender": "Female",
+      "physics": 92,
+      "maths": 90,
+      "english": 80
+    },
+    {
+      "id": "9096",
+      "name": "Rohini",
+      "gender": "Female",
+      "physics": 92,
+      "maths": 90,
+      "english": 80
+    },
+    {
+      "id": "8e68",
+      "name": "Rohini",
+      "gender": "Female",
+      "physics": 92,
+      "maths": 90,
+      "english": 80
+    },
+    {
+      "id": "b7f4",
+      "name": "Rohini",
+      "gender": "Female",
+      "physics": 92,
+      "maths": 90,
+      "english": 80
+    },
+    {
+      "id": "6686",
+      "name": "Shyam",
+      "gender": "Male",
+      "physics": 90,
+      "maths": 95,
+      "english": 85
+    }
+  ]
+}
